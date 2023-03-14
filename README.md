@@ -2,6 +2,7 @@
 [![Header](https://raw.githubusercontent.com/Onalenna-Ketshabile/Onalenna-Ketshabile/main/assets/images/Onalenna_Ketshabile_Banner.png "Header")](/)
 
 # Hi there! <img src="https://raw.githubusercontent.com/Onalenna-Ketshabile/Onalenna-Ketshabile/main/assets/images/greet.gif" width="30px"> I'm Onalenna ... 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github.githubassets.com/images/mona-loading-default.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Onalenna-Ketshabile&label=Profile%20views&color=034E57&style=flat" alt="profile-views" /> </p>
 
 
