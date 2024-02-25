@@ -1,10 +1,6 @@
 # Hello, I'm Onalenna! 👋
 
-I'm an accomplished network engineer on a dynamic journey towards becoming a cybersecurity professional. Armed with a BSc in Information Technology and Computer Science, earned from the esteemed University of Johannesburg, I bring a robust technical foundation to the evolving realm of cybersecurity.
-
-## About Me
-
-As an ISC² certified cybersecurity professional, AWS Cloud Practitioner, and Azure Fundamentals certified individual, I've honed my skills in Linux system administration, telecommunications, and a comprehensive understanding of network protocols.
+I am an enthusiastic Cybersecurity enthusiast currently interning at Atos Pty Ltd while also working as a contracted network support engineer for Cell C. I am pursuing a BSc Honors in Computer Science with a specialization in Cybersecurity. Outside of my academic and professional pursuits, I enjoy engaging in challenge rooms on TryHack, freelancing in software development, and indulging in hobbies such as playing piano and chess. These activities provide me with a sense of refreshment and fulfillment outside of my work responsibilities.
 
 ## Skills & Expertise
 
@@ -19,11 +15,6 @@ As an ISC² certified cybersecurity professional, AWS Cloud Practitioner, and Az
 - **Security Frameworks:** NIST, ISO/IEC 27001.
 - **Containerization:** Docker, Kubernetes.
 - **Scripting:** Bash, PowerShell.
-- **Monitoring and Logging:** ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus.
-
-## Cybersecurity Focus
-
-My current focus is immersing myself in the world of cybersecurity. I actively participate in platforms such as TryHackMe and Hack The Box to gain hands-on experience in ethical hacking, penetration testing, and real-world scenarios.
 
 ## Cloud and Beyond
 
