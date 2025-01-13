@@ -7,7 +7,7 @@ My professional experience spans various roles, including my current position as
 
 ## Skills & Expertise
 
-- **Cybersecurity:** ISC² Certified, AWS Cloud Practitioner,  Azure x 7, CompTIA X 5
+- **Cybersecurity:** ISC² Certified in Cybersecurity, AWS Cloud Practitioner,  Azure x 5, CompTIA x 2
 - **Networking:** TCP/IP, VPNs, Firewalls, Intrusion Detection and Prevention, Telecommunications.
 - **Cloud Technologies:** AWS, Azure.
 - **Operating Systems:** Proficient in Linux (Ubuntu, CentOS).
