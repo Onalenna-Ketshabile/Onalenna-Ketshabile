@@ -1,10 +1,13 @@
 # Hello, I'm Onalenna! 👋
 
-I am an enthusiastic Cybersecurity enthusiast currently interning at Atos Pty Ltd while also working as a contracted network support engineer for Cell C. I am pursuing a BSc Honors in Computer Science with a specialization in Cybersecurity. Outside of my academic and professional pursuits, I enjoy engaging in challenge rooms on TryHack, freelancing in software development, and indulging in hobbies such as playing piano and chess. These activities provide me with a sense of refreshment and fulfillment outside of my work responsibilities.
+Hi, I'm Onalenna Ketshabile, a cybersecurity professional based in Johannesburg, South Africa. I’m currently pursuing a BSc (Hons) in Computer Science with a specialization in Cybersecurity at the University of Johannesburg. I also hold a BSc in IT (Computer Science and Informatics), where I developed a strong foundation in software development and IT systems.
+
+My professional experience spans various roles, including my current position as a Cyber Security Analyst at IGuardSA, where I provide 24/7 security monitoring and incident response. I've worked with tools like QRadar, Microsoft Defender, and Kaspersky to secure client environments. Additionally, I've held roles as an IT Intern at Atos and a contracted Network Support Engineer at Cell C, where I optimized reporting processes and supported critical network infrastructure.
+
 
 ## Skills & Expertise
 
-- **Cybersecurity:** ISC² Certified, AWS Cloud Practitioner, Azure Fundamentals.
+- **Cybersecurity:** ISC² Certified, AWS Cloud Practitioner,  Azure x 7, CompTIA X 5
 - **Networking:** TCP/IP, VPNs, Firewalls, Intrusion Detection and Prevention, Telecommunications.
 - **Cloud Technologies:** AWS, Azure.
 - **Operating Systems:** Proficient in Linux (Ubuntu, CentOS).
